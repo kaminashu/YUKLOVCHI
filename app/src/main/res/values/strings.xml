@@ -2,4 +2,5 @@
     <string name="app_name">YUKLOVCHI</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">Hurmatli foydalanuvchi siz ushbu ilova orqali qo`shiqlarni 🎵 (Musiqani) .mp3 formatda yuklab olshiz mumkin. 🙂\n\nBuning uchun qo`shiqni nomini yoki qo`shiqchi nomini mahsus qidiruv bo`limiga yozib qidiruv tugmasini bosishiz kerak bo`ladi. 🎶\nSizga ilova musiqalar to`plamini taqdim qiladi. Siz bu bo`limdan o`zizga kerakli musiqani tanlashiz kerak bo`ladi va uni ustiga bosishiz kerak bo`ladi. Shu orqali musiqani yuklab olasiz,\nE`tiboriz uchun tashakkur.\nDasturchi: O. O`razov</string>
 </resources>

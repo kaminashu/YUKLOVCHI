@@ -1,7 +1,8 @@
-package www.uzmd.yuklovchi
+package www.uzmd.yuklovchi.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import www.uzmd.yuklovchi.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
